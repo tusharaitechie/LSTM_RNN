@@ -564,7 +564,7 @@ It showcases practical skills in:
 
 ## 👨‍💻 Author
 
-### Tushar Nile
+### Tushar AI Techie
 
 **Data Science | Machine Learning | Deep Learning | NLP | AI**
 
